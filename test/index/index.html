@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="img/favicon.ico">
+	<link href='http://fonts.googleapis.com/css?family=Jaldi:700,400' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+	<!-- it works the same with all jquery version from 1.x to 2.x -->
+    <script type="text/javascript" src="js/slider/jquery-1.9.1.min.js"></script>
+    <!-- use jssor.slider.mini.js (40KB) instead for release -->
+    <!-- jssor.slider.mini.js = (jssor.js + jssor.slider.js) -->
+    <script type="text/javascript" src="js/slider/jssor.js"></script>
+    <script type="text/javascript" src="js/slider/jssor.slider.js"></script>
+    <script type="text/javascript" src="js/slider/slider.js"></script>
+        <!--#region Arrow Navigator Skin Begin -->
+    <!-- Help: http://www.jssor.com/development/slider-with-arrow-navigator-jquery.html -->
+    <style>
+        /* jssor slider arrow navigator skin 21 css */
+        /*
+        .jssora21l                  (normal)
+        .jssora21r                  (normal)
+        .jssora21l:hover            (normal mouseover)
+        .jssora21r:hover            (normal mouseover)
+        .jssora21l.jssora21ldn      (mousedown)
+        .jssora21r.jssora21rdn      (mousedown)
+        */
+        .jssora21l, .jssora21r {
+            display: block;
+            position: absolute;
+            /* size of arrow element */
+            width: 55px;
+            height: 55px;
+            cursor: pointer;
+            background: url(img/slider/a21.png) center center no-repeat;
+            overflow: hidden;
+        }
+        .jssora21l { background-position: -3px -33px; }
+        .jssora21r { background-position: -63px -33px; }
+        .jssora21l:hover { background-position: -123px -33px; }
+        .jssora21r:hover { background-position: -183px -33px; }
+        .jssora21l.jssora21ldn { background-position: -243px -33px; }
+        .jssora21r.jssora21rdn { background-position: -303px -33px; }
+    </style>
+    <!--#region Bullet Navigator Skin Begin -->
+    <!-- Help: http://www.jssor.com/development/slider-with-bullet-navigator-jquery.html -->
+    <style>
+        /* jssor slider bullet navigator skin 21 css */
+        /*
+        .jssorb21 div           (normal)
+        .jssorb21 div:hover     (normal mouseover)
+        .jssorb21 .av           (active)
+        .jssorb21 .av:hover     (active mouseover)
+        .jssorb21 .dn           (mousedown)
+        */
+        .jssorb21 {
+            position: absolute;
+        }
+        .jssorb21 div, .jssorb21 div:hover, .jssorb21 .av {
+            position: absolute;
+            /* size of bullet elment */
+            width: 19px;
+            height: 19px;
+            text-align: center;
+            line-height: 19px;
+            color: white;
+            font-size: 12px;
+            background: url(img/slider/b21.png) no-repeat;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .jssorb21 div { background-position: -5px -5px; }
+        .jssorb21 div:hover, .jssorb21 .av:hover { background-position: -35px -5px; }
+        .jssorb21 .av { background-position: -65px -5px; }
+        .jssorb21 .dn, .jssorb21 .dn:hover { background-position: -95px -5px; }
+    </style>
+
+	<title>Huyle's Footwear site</title>
+</head>
+<body>
+	<section class="cd-slider-wrapper">
+		<ul class="cd-slider">
+			<li class="visible">
+				<div>
+				<a href=""><img class="logo" src="img/logo-white.png" width="106" height="108" title="Enter store"></a>
+				</div>
+			</li>
+				
+			<li>
+				<div>
+				<!-- Jssor Slider Begin -->
+				    <!-- To move inline styles to css file/block, please specify a class name for each element. --> 
+				    <div id="slider1_container" style="position: absolute; margin-top: 0px;
+				        top: 0px; left: 0px; width: 1300px; height: 500px; overflow: hidden; box-shadow: 0px 2px 2px rgba(225, 225, 225, 222)">
+				        <!-- Loading Screen -->
+				        <div u="loading" style="position: absolute; top: 0px; left: 0px;">
+				            <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block;
+				                top: 0px; left: 0px; width: 100%; height: 100%;">
+				            </div>
+				            <div style="position: absolute; display: block; background: url(img/slider/loading.gif) no-repeat center center;
+				                top: 0px; left: 0px; width: 100%; height: 100%;">
+				            </div>
+				        </div>
+				        <!-- Slides Container -->
+				        <div u="slides" style="cursor: e-resize; position: absolute; left: 0px; top: 0px; width: 1300px;
+				            height: 500px; overflow: hidden;">
+				            <div>
+				                <img u="image" src="img/product-images/ads/ad1.jpg" />
+				                <div class="info1">Let's the color touch your soul
+				                </div>
+				                <div style="position: absolute; width: 400px; height: 120px; top: 280px; left: 30px; padding: 5px;
+				                    text-align: left; line-height: 36px; font-size: 30px;
+				                        color: #000;">
+				                        All for your hobbies and desires!
+				                </div>
+				            </div>
+				            <div>
+				                <img u="image" src="img/product-images/ads/ad2.jpg" />
+				                <div class="info1">We provide the best quality of all.
+				                </div>
+				                <div style="position: absolute; width: 480px; height: 120px; top: 300px; left: 30px; padding: 5px;
+				                    text-align: left; line-height: 36px; font-size: 30px;
+				                        color: #000;">
+				                        It's so arrogant, isn't it? But you know what? It 100% true.
+				                </div>
+				            </div>
+				            <div>
+				                <img u="image" src="img/product-images/ads/ad3.jpg" />
+				                <div class="info1">Sports, Formal, Street footwear.
+				                </div>
+				                <div style="position: absolute; width: 480px; height: 120px; top: 300px; left: 30px; padding: 5px;
+				                    text-align: left; line-height: 36px; font-size: 30px;
+				                        color: #FFFFFF;">
+				                        We guarantee that you can find the best type of shoes for your own.
+				                </div>
+				            </div>
+				             <div>
+				                <img u="image" src="img/product-images/ads/ad4.jpg" />
+				                <div class="info1">We know!</div>
+				                <div style="position: absolute; width: 480px; height: 120px; top: 300px; left: 30px; padding: 5px;
+				                    text-align: left; line-height: 36px; font-size: 30px;
+				                        color: #FFFFFF;">
+				                        We know what you want and we can help you with all the best we could.
+				                </div>
+				            </div>
+				            <div>
+				                <img u="image" src="img/product-images/ads/ad5.jpg" />
+				                <div class="info1">Let's go!
+				                </div>
+				                <div style="position: absolute; width: 480px; height: 120px; top: 300px; left: 30px; padding: 5px;
+				                    text-align: left; line-height: 36px; font-size: 30px;
+				                        color: #000;">
+				                        "Dreams don't work unless you do!"
+				                </div>
+				            </div>
+				        </div>
+				        <!-- bullet navigator container -->
+        				<div u="navigator" class="jssorb21" style="bottom: 26px; right: 6px;">
+           					 <!-- bullet navigator item prototype -->
+           					 <div u="prototype"></div>
+        				</div>
+        				<!--#endregion Bullet Navigator Skin End -->
+
+				        <!-- Arrow Left -->
+				        <span u="arrowleft" class="jssora21l" style="top: 123px; left: 8px;">
+				        </span>
+				        <!-- Arrow Right -->
+				        <span u="arrowright" class="jssora21r" style="top: 123px; right: 8px;">
+				        </span>
+				        <!--#endregion Arrow Navigator Skin End -->
+				    </div>
+				<a href="#"><img class="logo-2" src="img/logo-white-original.png" width="74" height="77" title="Enter store"></a>
+				</div><!--End page 2-->
+			</li>
+
+			<li>
+				<div>
+				<a href="#"><img class="logo-3" src="img/logo-white-original.png" width="74" height="77" title="Enter store"></a>
+					<h2>Slide #3 Title</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae, distinctio!.</p>
+				</div>
+			</li>
+
+			<li>
+				<div>
+				<a href="#"><img class="logo-4" src="img/logo-white-original.png" width="74" height="77" title="Enter store"></a>
+					<h2>Slide #4 Title</h2>
+					<p>Lorem ipsum dolor sit amet.</p>
+				</div>
+			</li>
+		</ul> <!-- .cd-slider -->
+	
+		<ol class="cd-slider-navigation">
+			<li class="selected"><a href="#0"><em>Home</em></a></li>
+			<li><a href="#0"><em>Service</em></a></li>
+			<li><a href="#0"><em>About</em></a></li>
+			<li><a href="#0"><em>Contact</em></a></li>
+		</ol> <!-- .cd-slider-navigation -->
+		
+		<div class="cd-svg-cover" data-step1="M1402,800h-2V0.6c0-0.3,0-0.3,0-0.6h2v294V800z" data-step2="M1400,800H383L770.7,0.6c0.2-0.3,0.5-0.6,0.9-0.6H1400v294V800z" data-step3="M1400,800H0V0.6C0,0.4,0,0.3,0,0h1400v294V800z" data-step4="M615,800H0V0.6C0,0.4,0,0.3,0,0h615L393,312L615,800z" data-step5="M0,800h-2V0.6C-2,0.4-2,0.3-2,0h2v312V800z" data-step6="M-2,800h2L0,0.6C0,0.3,0,0.3,0,0l-2,0v294V800z" data-step7="M0,800h1017L629.3,0.6c-0.2-0.3-0.5-0.6-0.9-0.6L0,0l0,294L0,800z" data-step8="M0,800h1400V0.6c0-0.2,0-0.3,0-0.6L0,0l0,294L0,800z" data-step9="M785,800h615V0.6c0-0.2,0-0.3,0-0.6L785,0l222,312L785,800z" data-step10="M1400,800h2V0.6c0-0.2,0-0.3,0-0.6l-2,0v312V800z">
+			<svg height='100%' width="100%" preserveAspectRatio="none" viewBox="0 0 1400 800">
+				<title>SVG cover layer</title>
+				<desc>an animated layer to switch from one slide to the next one</desc>
+				<path id="cd-changing-path" d="M1402,800h-2V0.6c0-0.3,0-0.3,0-0.6h2v294V800z"/>
+			</svg>
+		</div> <!-- .cd-svg-cover -->
+	</section> <!-- .cd-slider-wrapper -->
+<script src="js/jquery-2.1.4.js"></script>
+<script src="js/snap.svg-min.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>

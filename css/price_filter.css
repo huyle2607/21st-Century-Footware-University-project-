@@ -1,0 +1,114 @@
+.button {
+  	margin-top: 15px;
+  	margin-left: 7px;
+  	position: relative;
+  	vertical-align: top;
+  	width: 80px;
+  	height: 30px;
+  	padding: 0;
+  	font-size: 14px;
+  	color: white;
+  	text-align: center;
+  	text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  	background: #333333;
+  	border: 0;
+  	border-bottom: 2px solid #030202;
+  	cursor: pointer;
+  	border-radius: 2px;
+  	-webkit-box-shadow: inset 0 -2px #030202;
+  	box-shadow: inset 0 -2px #030202;
+}
+.button:active {
+  top: 1px;
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.sorttype2 {
+  /*margin-left: 250px;*/
+    padding:6px;
+    margin-top: 15px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #BFBFBF, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #BFBFBF, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #BFBFBF, 0 -1px #fff inset;
+    background: #fff;
+    color:#000;
+	border-top: solid 1px #BFBFBF;
+	border-left: solid 1px #BFBFBF;
+	border-right: solid 1px #BFBFBF;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+
+.sorttype1 {
+  margin-left: 250px;
+    padding:8px;
+    margin-top: 15px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #BFBFBF, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #BFBFBF, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #BFBFBF, 0 -1px #fff inset;
+    background: #fff;
+    color:#000;
+  border-top: solid 1px #BFBFBF;
+  border-left: solid 1px #BFBFBF;
+  border-right: solid 1px #BFBFBF;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+/* Targetting Webkit browsers only. FF will show the dropdown arrow with so much padding. */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .sorttype1  {padding-right:18px}
+}
+
+label {position:relative}
+label:after {
+    content:'<>';
+    font:16px "Consolas", monospace;
+    color:#aaa;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg);
+    right:8px; top:2px;
+    padding:0 0 2px;
+    border-bottom:1px solid #ddd;
+    position:absolute;
+    pointer-events:none;
+}
+label:before {
+    content:'';
+    right:6px; top:0px;
+    width:20px; height:20px;
+    background:#f8f8f8;
+    position:absolute;
+    pointer-events:none;
+    display:block;
+}
+
+.price-select {
+  width: 100px;
+}
+
+#price_to {
+  width: 100px;
+}
+
+.tabletext {
+  padding-top: 15px; 
+  padding-left: 50px;
+}

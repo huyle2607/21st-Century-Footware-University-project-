@@ -1,0 +1,23 @@
+RewriteEngine on
+RewriteRule ^/$ index.php [L]
+RewriteRule ^Home.html/?$ index.php?act=home     [L]
+RewriteRule ^Shoes.html/?$ index.php?act=sh     [L]
+RewriteRule ^Boots.html/?$ index.php?act=bt     [L]
+RewriteRule ^Flip-flops.html/?$ index.php?act=ff     [L]
+RewriteRule ^Your-cart.html/?$ index.php?act=cart     [L]
+RewriteRule ^Price-sort/?$ index.php?act=pricesort     [L]
+RewriteRule ^Login.html/?$ member/login.php    [L]
+RewriteRule ^Order/?$ cart/order.php   [L]
+
+RewriteRule ^price-sort/type-([a-zA-Z]*)/page-([0-9]*)/?$ index.php?act=pricesort&sorttype=$1&p=$2    [QSA]
+RewriteRule ^Search/([a-zA-Z]*)/?$ index.php?searchkey=$1    [QSA]
+RewriteRule ^search/([a-zA-Z]*)/page-([0-9]*)/?$ index.php?searchkey=$1&p=$2     [QSA]
+RewriteRule ^shoes.html/page-([0-9]*)/?$ index.php?act=sh&p=$1     [QSA]
+RewriteRule ^boots.html/page-([0-9]*)/?$ index.php?act=bt&p=$1   [QSA]
+RewriteRule ^flip-flops.html/page-([0-9]*)/?$ index.php?act=ff&p=$1  [QSA]
+RewriteRule ^Brand/(.*)/?$ index.php?brandid=$1      [QSA]
+RewriteRule ^brand/([a-zA-Z]*)/page-([0-9]*)/?$ index.php?brandid=$1&p=$2 [QSA]
+RewriteRule ^Detail/(.*).html/?$ index.php?shoeid=$1      [QSA]
+RewriteRule ^Cart.html/(.*)/?$ index.php?act=cart&productid=$1      [QSA]
+DirectoryIndex    index.php
+Options -Indexes

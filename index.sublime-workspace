@@ -1,0 +1,743 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"act"
+			],
+			[
+				"produc",
+				"productid"
+			],
+			[
+				"list",
+				"listproduct"
+			],
+			[
+				"arc",
+				"article	Tag"
+			],
+			[
+				"border-top",
+				"border-top"
+			],
+			[
+				"he",
+				"line-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"i",
+				"img1"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"re",
+				"resulthangboot"
+			],
+			[
+				"s",
+				"sqlhangboot"
+			],
+			[
+				"search",
+				"searchicon"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"resu",
+				"resultlt"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"res",
+				"resultlt"
+			],
+			[
+				"sq",
+				"sqllt"
+			],
+			[
+				"load",
+				"load_screen"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"l",
+				"lang	Attr"
+			],
+			[
+				"thong",
+				"thongdiepdai"
+			],
+			[
+				"thongdie",
+				"thongdiepngan"
+			],
+			[
+				"sql",
+				"sql_quangcao"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"si",
+				"size	Attr"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"form",
+				"formxacnhan"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"java",
+				"javascript"
+			],
+			[
+				"user",
+				"user_error"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"alg",
+				"text-align"
+			],
+			[
+				"vi",
+				"vertical-align"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"Ac",
+				"accesskey	Attr"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"boe",
+				"border"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"marn",
+				"margin-right"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"fil",
+				"fileURI"
+			],
+			[
+				"x",
+				"xhtml1"
+			],
+			[
+				"X",
+				"XHTML"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"Se",
+				"HttpServletRequest"
+			],
+			[
+				"http",
+				"HttpServletRequest"
+			],
+			[
+				"htt",
+				"HttpServlet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3038,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/HuyLe/xampp/htdocs/shoestore"
+	],
+	"file_history":
+	[
+		"/D/HuyLe/xampp/htdocs/shoestore/webcontent/typeproduct.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/webcontent/sankhau.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop/style/css1.css",
+		"/D/HuyLe/xampp/htdocs/banlaptop/web/listsp.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/css/index-style.css",
+		"/D/HuyLe/xampp/htdocs/shoestore/index.php",
+		"/D/HuyLe/xampp/htdocs/laravel/config/database.php",
+		"/D/HuyLe/xampp/htdocs/laravel/.env",
+		"/D/HuyLe/xampp/htdocs/laravel/public/index.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/sanpham.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/web/listsp.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/web/sankhau.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/index.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/home.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/webcontent/listproduct.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/web/left.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/web/sanpham.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/webcontent/product.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/member/signup.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/web/hanglaptop.php",
+		"/D/SPKT University/PHP/buoi23/NS_357_1_9_2015/banlaptop_28_7_2015/thanhvien/dangky.php",
+		"/D/HuyLe/Downloads/Compressed/Web Design/sticky navigation/style.css",
+		"/D/HuyLe/xampp/htdocs/shoestore/js/jquery.sticky.js",
+		"/D/HuyLe/Downloads/Compressed/Web Design/sticky navigation/index.html",
+		"/D/HuyLe/xampp/htdocs/shoestore/css/price_filter.css",
+		"/D/HuyLe/xampp/htdocs/shoestore/webcontent/price_filter.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/member/forgetpass.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/member/login.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/sankhau.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/index.php",
+		"/D/HuyLe/Downloads/Compressed/Web Design/CustomDropDownListStyling/index5.html",
+		"/D/HuyLe/Downloads/Compressed/Web Design/CustomDropDownListStyling/css/style.css",
+		"/D/HuyLe/Downloads/Compressed/Web Design/CustomDropDownListStyling/index3.html",
+		"/D/SPKT University/PHP/buoi24/NS_357_3_9_2015/banlaptop_28_7_2015/web/left.php",
+		"/D/SPKT University/PHP/buoi18/NS_357_20_8-2015/banlaptop_28_7_2015/web/left.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/timkiemtheogia.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/left.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/timkiem.php",
+		"/D/HuyLe/Downloads/Compressed/Web Design/sticky navigation/jquery.sticky.js",
+		"/D/HuyLe/xampp/htdocs/shoestore/js/jquery-2.1.4.js",
+		"/D/HuyLe/xampp/htdocs/shoestore/js/jquery.min.js",
+		"/D/HuyLe/xampp/htdocs/shoestore/css/sidebar.css",
+		"/D/HuyLe/xampp/htdocs/shoestore/sidebar/sidebar.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/css/menu.css",
+		"/D/HuyLe/xampp/htdocs/webtintuc/menu/menu3.php",
+		"/D/HuyLe/xampp/htdocs/webtintuc/menu/menu2.css",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/style/cssweb.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/HuyLe/xampp/htdocs/webtintuc/Models/classtin.php",
+		"/D/HuyLe/xampp/htdocs/webtintuc/quantri/index.php",
+		"/D/SPKT University/PHP/buoi20/banlaptop_28_7_2015/index.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/quantri/index1.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/quantri/index.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/hanglaptop.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/css/style.css",
+		"/D/HuyLe/xampp/htdocs/shoestore/scss/style.scss",
+		"/D/SPKT University/PHP/buoi37/NS357_3_10_2015/RESPONSIVE_WEB_DESIGN/layout_framework/style/cssweb.css",
+		"/D/SPKT University/PHP/buoi37/NS357_3_10_2015/RESPONSIVE_WEB_DESIGN/layout_framework/index.html",
+		"/D/SPKT University/PHP/buoi37/NS357_3_10_2015/RESPONSIVE_WEB_DESIGN/layout_tucss/style/responsiveweb.css",
+		"/D/SPKT University/PHP/buoi37/NS357_3_10_2015/RESPONSIVE_WEB_DESIGN/layout_tucss/style/cssweb.css",
+		"/D/SPKT University/PHP/buoi37/NS357_3_10_2015/RESPONSIVE_WEB_DESIGN/layout_tucss/index.html",
+		"/D/SPKT University/PHP/buoi14/banlaptop_28_7_2015/style/cssweb.css",
+		"/D/SPKT University/PHP/buoi14/banlaptop_28_7_2015/index.php",
+		"/D/HuyLe/xampp/htdocs/webtintuc/menu/menu2.php",
+		"/D/HuyLe/xampp/htdocs/ql_tintuc_hdt_29_6/index.php",
+		"/D/HuyLe/xampp/htdocs/ql_tintuc_hdt_29_6/classtin.php",
+		"/D/HuyLe/xampp/htdocs/ql_tintuc_hdt_29_6/classdb.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/config/config.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/spmoi.php",
+		"/D/HuyLe/xampp/htdocs/wordpress/wp-content/themes/MagazinePro/style.css",
+		"/D/HuyLe/Downloads/Compressed/Web Design/PageLoadingEffects/index.html",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/gioithieu.php",
+		"/D/HuyLe/xampp/htdocs/webtintuc/menu/menu1.php",
+		"/D/HuyLe/xampp/htdocs/wordpress/wp-content/index.php",
+		"/D/HuyLe/xampp/htdocs/wordpress/index.php",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/js/jquery.js",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/web/sanphammoi.php",
+		"/D/SPKT University/PHP/buoi33/NS357_24_9_2015/webtintuc_3_9_2015/Views/chitiettin.php",
+		"/D/HuyLe/xampp/htdocs/webtintuc_3_9_2015/classdb.php",
+		"/D/SPKT University/PHP/buoi33/NS357_24_9_2015/webtintuc_3_9_2015/Models/classtin.php",
+		"/C/Users/HuyLe/Desktop/coffe.jpg",
+		"/D/SPKT University/PHP/buoi33/NS357_24_9_2015/webtintuc_3_9_2015/Controls/tintrongloaitinControl.php",
+		"/D/SPKT University/PHP/buoi33/NS357_24_9_2015/webtintuc_3_9_2015/quantri/tintuc_layloaitin.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/index.html",
+		"/C/Users/HuyLe/Desktop/shoestore.sql",
+		"/C/Users/HuyLe/Desktop/ckeditor/samples/index.html",
+		"/C/Users/HuyLe/Desktop/ckeditor/samples/js/sample.js",
+		"/C/Users/HuyLe/Desktop/ckeditor/config.js",
+		"/C/Users/HuyLe/Desktop/ckeditor/contents.css",
+		"/C/Users/HuyLe/Desktop/ckeditor/samples/New Text Document.html",
+		"/D/HuyLe/xampp/htdocs/webtintucnuke/themes/default/layout/footer.tpl",
+		"/C/Users/HuyLe/Desktop/New folder (2)/index.html",
+		"/D/SPKT University/Senior/Công nghệ phần mềm mới/HCMUTE.CCNPMM.201509/09_05_W01/01.test-app/test-app/build/classes/testPackage/HelloWorld.class",
+		"/D/SPKT University/Senior/Công nghệ phần mềm mới/HCMUTE.CCNPMM.201509/09_05_W01/01.test-app/test-app/WebContent/hello.jsp",
+		"/C/Users/HuyLe/Desktop/samples/index.html",
+		"/D/HuyLe/Downloads/Compressed/ckeditor_4.5.3_standard/ckeditor/README.md",
+		"/C/Users/HuyLe/Desktop/New Text Document.html",
+		"/C/Users/HuyLe/Desktop/New folder (2)/New Text Document.html",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/quantri/themtin.php",
+		"/C/Users/HuyLe/Desktop/ckeditor/ckeditor.js",
+		"/D/HuyLe/xampp/htdocs/banlaptop_28_7_2015/config/config.php",
+		"/C/Users/HuyLe/Desktop/helloworld.php",
+		"/D/SPKT University/PHP/buoi28/NS_357_12_09_2015/webtintuc_3_9_2015/tinmoitheloai.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/test/index/index.html",
+		"/D/HuyLe/xampp/htdocs/shoestore/test/index/css/style.css",
+		"/G/autorun.inf",
+		"/C/Users/HuyLe/Desktop/New Text Document (2).html",
+		"/D/SPKT University/PHP/buoi27/NS_357_10_9_2015/comment_1_5_2013/ajax.js",
+		"/D/SPKT University/PHP/buoi27/NS_357_10_9_2015/comment_1_5_2013/check.php",
+		"/D/HuyLe/xampp/htdocs/shoestore/test/index/js/slider/slider.js",
+		"/D/HuyLe/xampp/htdocs/shoestore/test/index/slider/New folder/full-width-slider.source.html",
+		"/D/HuyLe/xampp/htdocs/shoestore/test/index/js/slider/jssor.slider.js",
+		"/C/Users/HuyLe/Desktop/slider/New folder/full-width-slider.source.html",
+		"/C/Users/HuyLe/Desktop/slider/full-width-slider.source.html",
+		"/D/WebQuiz/Demo_TracNghiem/WebContent/css/home/style.css",
+		"/D/WebQuiz/Demo_TracNghiem/WebContent/home.jsp",
+		"/D/HuyLe/Downloads/Compressed/Web Design/animated-svg-hero-slider/css/style.css",
+		"/D/HuyLe/Downloads/Compressed/Web Design/animated-svg-hero-slider/index.html",
+		"/D/HuyLe/Downloads/Compressed/Web Design/animated-svg-hero-slider/css/reset.css",
+		"/D/HuyLe/Downloads/Compressed/Web Design/animated-svg-hero-slider/js/main.js",
+		"/D/HuyLe/Downloads/Compressed/Web Design/animated-svg-hero-slider/js/modernizr.js",
+		"/D/HuyLe/Downloads/Compressed/Web Design/animated-svg-hero-slider/js/snap.svg-min.js",
+		"/D/HuyLe/Downloads/Compressed/Web Design/hero-slider/index.html",
+		"/C/Users/HuyLe/Desktop/desktop/scroll on top/Trang2.html",
+		"/C/Users/HuyLe/Desktop/desktop/scroll on top/script.js",
+		"/C/Users/HuyLe/Desktop/New folder/samples/index.html",
+		"/C/Users/HuyLe/Desktop/ckeditor_4.5.2_standard/ckeditor/samples/index.html",
+		"/C/Users/HuyLe/Desktop/New folder/Editor/example02_complete/default.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1000",
+			"act",
+			"act ",
+			"act",
+			"0px",
+			"wrapper-demo",
+			"15px",
+			"272727",
+			"000",
+			"<<",
+			">\n",
+			"tenhang",
+			"%;",
+			" \n",
+			");\n",
+			"slider1_container",
+			"font-size",
+			".title1 .title2 {\n  margin: 0;\n}\n\n.title1 {\n  font-size: 25px; \n}\n.title2 {\n  font-size: 12px;\n  font-family: Quinfo;\n  text-transform: uppercase;\n}",
+			" \n",
+			"h2",
+			"svg",
+			"000",
+			"<!",
+			"cd-icon",
+			">",
+			"80px",
+			"php",
+			"80",
+			"action=",
+			"393379",
+			"-->\n",
+			".cl-effect-5",
+			".cl-effect-7",
+			".cl-effect-2",
+			".cl-effect-18",
+			"action",
+			">\n",
+			"home2",
+			".cl-effect-3",
+			"';\n",
+			".cl-effect-6",
+			".cl-effect-7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1150",
+			"wrapper-sort",
+			".nav",
+			"bucket",
+			".nav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								868,
+								868
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\HuyLe\\xampp\\htdocs\\shoestore\\index.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 139.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
